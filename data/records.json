@@ -1,0 +1,869 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "cell": "c0",
+      "district": "d0",
+      "visitors": 10,
+      "served": 0,
+      "x": 0,
+      "y": 0,
+      "id": "r0000"
+    },
+    {
+      "cell": "c1",
+      "district": "d0",
+      "visitors": 11,
+      "served": 1,
+      "x": 1,
+      "y": 0,
+      "id": "r0001"
+    },
+    {
+      "cell": "c2",
+      "district": "d0",
+      "visitors": 12,
+      "served": 2,
+      "x": 2,
+      "y": 0,
+      "id": "r0002"
+    },
+    {
+      "cell": "c3",
+      "district": "d0",
+      "visitors": 13,
+      "served": 3,
+      "x": 3,
+      "y": 0,
+      "id": "r0003"
+    },
+    {
+      "cell": "c4",
+      "district": "d0",
+      "visitors": 14,
+      "served": 4,
+      "x": 4,
+      "y": 0,
+      "id": "r0004"
+    },
+    {
+      "cell": "c5",
+      "district": "d0",
+      "visitors": 15,
+      "served": 5,
+      "x": 5,
+      "y": 0,
+      "id": "r0005"
+    },
+    {
+      "cell": "c6",
+      "district": "d0",
+      "visitors": 16,
+      "served": 6,
+      "x": 6,
+      "y": 0,
+      "id": "r0006"
+    },
+    {
+      "cell": "c7",
+      "district": "d0",
+      "visitors": 17,
+      "served": 7,
+      "x": 7,
+      "y": 0,
+      "id": "r0007"
+    },
+    {
+      "cell": "c8",
+      "district": "d0",
+      "visitors": 18,
+      "served": 8,
+      "x": 8,
+      "y": 0,
+      "id": "r0008"
+    },
+    {
+      "cell": "c9",
+      "district": "d0",
+      "visitors": 19,
+      "served": 9,
+      "x": 9,
+      "y": 0,
+      "id": "r0009"
+    },
+    {
+      "cell": "c10",
+      "district": "d0",
+      "visitors": 20,
+      "served": 0,
+      "x": 10,
+      "y": 0,
+      "id": "r0010"
+    },
+    {
+      "cell": "c11",
+      "district": "d0",
+      "visitors": 21,
+      "served": 1,
+      "x": 11,
+      "y": 0,
+      "id": "r0011"
+    },
+    {
+      "cell": "c12",
+      "district": "d0",
+      "visitors": 22,
+      "served": 2,
+      "x": 0,
+      "y": 1,
+      "id": "r0012"
+    },
+    {
+      "cell": "c13",
+      "district": "d0",
+      "visitors": 23,
+      "served": 3,
+      "x": 1,
+      "y": 1,
+      "id": "r0013"
+    },
+    {
+      "cell": "c14",
+      "district": "d0",
+      "visitors": 24,
+      "served": 4,
+      "x": 2,
+      "y": 1,
+      "id": "r0014"
+    },
+    {
+      "cell": "c15",
+      "district": "d0",
+      "visitors": 25,
+      "served": 5,
+      "x": 3,
+      "y": 1,
+      "id": "r0015"
+    },
+    {
+      "cell": "c16",
+      "district": "d0",
+      "visitors": 26,
+      "served": 6,
+      "x": 4,
+      "y": 1,
+      "id": "r0016"
+    },
+    {
+      "cell": "c17",
+      "district": "d0",
+      "visitors": 27,
+      "served": 7,
+      "x": 5,
+      "y": 1,
+      "id": "r0017"
+    },
+    {
+      "cell": "c18",
+      "district": "d0",
+      "visitors": 28,
+      "served": 8,
+      "x": 6,
+      "y": 1,
+      "id": "r0018"
+    },
+    {
+      "cell": "c19",
+      "district": "d0",
+      "visitors": 29,
+      "served": 9,
+      "x": 7,
+      "y": 1,
+      "id": "r0019"
+    },
+    {
+      "cell": "c20",
+      "district": "d0",
+      "visitors": 10,
+      "served": 0,
+      "x": 8,
+      "y": 1,
+      "id": "r0020"
+    },
+    {
+      "cell": "c21",
+      "district": "d0",
+      "visitors": 11,
+      "served": 1,
+      "x": 9,
+      "y": 1,
+      "id": "r0021"
+    },
+    {
+      "cell": "c22",
+      "district": "d0",
+      "visitors": 12,
+      "served": 2,
+      "x": 10,
+      "y": 1,
+      "id": "r0022"
+    },
+    {
+      "cell": "c23",
+      "district": "d0",
+      "visitors": 13,
+      "served": 3,
+      "x": 11,
+      "y": 1,
+      "id": "r0023"
+    },
+    {
+      "cell": "c24",
+      "district": "d1",
+      "visitors": 14,
+      "served": 4,
+      "x": 0,
+      "y": 2,
+      "id": "r0024"
+    },
+    {
+      "cell": "c25",
+      "district": "d1",
+      "visitors": 15,
+      "served": 5,
+      "x": 1,
+      "y": 2,
+      "id": "r0025"
+    },
+    {
+      "cell": "c26",
+      "district": "d1",
+      "visitors": 16,
+      "served": 6,
+      "x": 2,
+      "y": 2,
+      "id": "r0026"
+    },
+    {
+      "cell": "c27",
+      "district": "d1",
+      "visitors": 17,
+      "served": 7,
+      "x": 3,
+      "y": 2,
+      "id": "r0027"
+    },
+    {
+      "cell": "c28",
+      "district": "d1",
+      "visitors": 18,
+      "served": 8,
+      "x": 4,
+      "y": 2,
+      "id": "r0028"
+    },
+    {
+      "cell": "c29",
+      "district": "d1",
+      "visitors": 19,
+      "served": 9,
+      "x": 5,
+      "y": 2,
+      "id": "r0029"
+    },
+    {
+      "cell": "c30",
+      "district": "d1",
+      "visitors": 20,
+      "served": 0,
+      "x": 6,
+      "y": 2,
+      "id": "r0030"
+    },
+    {
+      "cell": "c31",
+      "district": "d1",
+      "visitors": 21,
+      "served": 1,
+      "x": 7,
+      "y": 2,
+      "id": "r0031"
+    },
+    {
+      "cell": "c32",
+      "district": "d1",
+      "visitors": 22,
+      "served": 2,
+      "x": 8,
+      "y": 2,
+      "id": "r0032"
+    },
+    {
+      "cell": "c33",
+      "district": "d1",
+      "visitors": 23,
+      "served": 3,
+      "x": 9,
+      "y": 2,
+      "id": "r0033"
+    },
+    {
+      "cell": "c34",
+      "district": "d1",
+      "visitors": 24,
+      "served": 4,
+      "x": 10,
+      "y": 2,
+      "id": "r0034"
+    },
+    {
+      "cell": "c35",
+      "district": "d1",
+      "visitors": 25,
+      "served": 5,
+      "x": 11,
+      "y": 2,
+      "id": "r0035"
+    },
+    {
+      "cell": "c36",
+      "district": "d1",
+      "visitors": 26,
+      "served": 6,
+      "x": 0,
+      "y": 3,
+      "id": "r0036"
+    },
+    {
+      "cell": "c37",
+      "district": "d1",
+      "visitors": 27,
+      "served": 7,
+      "x": 1,
+      "y": 3,
+      "id": "r0037"
+    },
+    {
+      "cell": "c38",
+      "district": "d1",
+      "visitors": 28,
+      "served": 8,
+      "x": 2,
+      "y": 3,
+      "id": "r0038"
+    },
+    {
+      "cell": "c39",
+      "district": "d1",
+      "visitors": 29,
+      "served": 9,
+      "x": 3,
+      "y": 3,
+      "id": "r0039"
+    },
+    {
+      "cell": "c40",
+      "district": "d1",
+      "visitors": 10,
+      "served": 0,
+      "x": 4,
+      "y": 3,
+      "id": "r0040"
+    },
+    {
+      "cell": "c41",
+      "district": "d1",
+      "visitors": 11,
+      "served": 1,
+      "x": 5,
+      "y": 3,
+      "id": "r0041"
+    },
+    {
+      "cell": "c42",
+      "district": "d1",
+      "visitors": 12,
+      "served": 2,
+      "x": 6,
+      "y": 3,
+      "id": "r0042"
+    },
+    {
+      "cell": "c43",
+      "district": "d1",
+      "visitors": 13,
+      "served": 3,
+      "x": 7,
+      "y": 3,
+      "id": "r0043"
+    },
+    {
+      "cell": "c44",
+      "district": "d1",
+      "visitors": 14,
+      "served": 4,
+      "x": 8,
+      "y": 3,
+      "id": "r0044"
+    },
+    {
+      "cell": "c45",
+      "district": "d1",
+      "visitors": 15,
+      "served": 5,
+      "x": 9,
+      "y": 3,
+      "id": "r0045"
+    },
+    {
+      "cell": "c46",
+      "district": "d1",
+      "visitors": 16,
+      "served": 6,
+      "x": 10,
+      "y": 3,
+      "id": "r0046"
+    },
+    {
+      "cell": "c47",
+      "district": "d1",
+      "visitors": 17,
+      "served": 7,
+      "x": 11,
+      "y": 3,
+      "id": "r0047"
+    },
+    {
+      "cell": "c48",
+      "district": "d2",
+      "visitors": 18,
+      "served": 8,
+      "x": 0,
+      "y": 4,
+      "id": "r0048"
+    },
+    {
+      "cell": "c49",
+      "district": "d2",
+      "visitors": 19,
+      "served": 9,
+      "x": 1,
+      "y": 4,
+      "id": "r0049"
+    },
+    {
+      "cell": "c50",
+      "district": "d2",
+      "visitors": 20,
+      "served": 0,
+      "x": 2,
+      "y": 4,
+      "id": "r0050"
+    },
+    {
+      "cell": "c51",
+      "district": "d2",
+      "visitors": 21,
+      "served": 1,
+      "x": 3,
+      "y": 4,
+      "id": "r0051"
+    },
+    {
+      "cell": "c52",
+      "district": "d2",
+      "visitors": 22,
+      "served": 2,
+      "x": 4,
+      "y": 4,
+      "id": "r0052"
+    },
+    {
+      "cell": "c53",
+      "district": "d2",
+      "visitors": 23,
+      "served": 3,
+      "x": 5,
+      "y": 4,
+      "id": "r0053"
+    },
+    {
+      "cell": "c54",
+      "district": "d2",
+      "visitors": 24,
+      "served": 4,
+      "x": 6,
+      "y": 4,
+      "id": "r0054"
+    },
+    {
+      "cell": "c55",
+      "district": "d2",
+      "visitors": 25,
+      "served": 5,
+      "x": 7,
+      "y": 4,
+      "id": "r0055"
+    },
+    {
+      "cell": "c56",
+      "district": "d2",
+      "visitors": 26,
+      "served": 6,
+      "x": 8,
+      "y": 4,
+      "id": "r0056"
+    },
+    {
+      "cell": "c57",
+      "district": "d2",
+      "visitors": 27,
+      "served": 7,
+      "x": 9,
+      "y": 4,
+      "id": "r0057"
+    },
+    {
+      "cell": "c58",
+      "district": "d2",
+      "visitors": 28,
+      "served": 8,
+      "x": 10,
+      "y": 4,
+      "id": "r0058"
+    },
+    {
+      "cell": "c59",
+      "district": "d2",
+      "visitors": 29,
+      "served": 9,
+      "x": 11,
+      "y": 4,
+      "id": "r0059"
+    },
+    {
+      "cell": "c60",
+      "district": "d2",
+      "visitors": 10,
+      "served": 0,
+      "x": 0,
+      "y": 5,
+      "id": "r0060"
+    },
+    {
+      "cell": "c61",
+      "district": "d2",
+      "visitors": 11,
+      "served": 1,
+      "x": 1,
+      "y": 5,
+      "id": "r0061"
+    },
+    {
+      "cell": "c62",
+      "district": "d2",
+      "visitors": 12,
+      "served": 2,
+      "x": 2,
+      "y": 5,
+      "id": "r0062"
+    },
+    {
+      "cell": "c63",
+      "district": "d2",
+      "visitors": 13,
+      "served": 3,
+      "x": 3,
+      "y": 5,
+      "id": "r0063"
+    },
+    {
+      "cell": "c64",
+      "district": "d2",
+      "visitors": 14,
+      "served": 4,
+      "x": 4,
+      "y": 5,
+      "id": "r0064"
+    },
+    {
+      "cell": "c65",
+      "district": "d2",
+      "visitors": 15,
+      "served": 5,
+      "x": 5,
+      "y": 5,
+      "id": "r0065"
+    },
+    {
+      "cell": "c66",
+      "district": "d2",
+      "visitors": 16,
+      "served": 6,
+      "x": 6,
+      "y": 5,
+      "id": "r0066"
+    },
+    {
+      "cell": "c67",
+      "district": "d2",
+      "visitors": 17,
+      "served": 7,
+      "x": 7,
+      "y": 5,
+      "id": "r0067"
+    },
+    {
+      "cell": "c68",
+      "district": "d2",
+      "visitors": 18,
+      "served": 8,
+      "x": 8,
+      "y": 5,
+      "id": "r0068"
+    },
+    {
+      "cell": "c69",
+      "district": "d2",
+      "visitors": 19,
+      "served": 9,
+      "x": 9,
+      "y": 5,
+      "id": "r0069"
+    },
+    {
+      "cell": "c70",
+      "district": "d2",
+      "visitors": 20,
+      "served": 0,
+      "x": 10,
+      "y": 5,
+      "id": "r0070"
+    },
+    {
+      "cell": "c71",
+      "district": "d2",
+      "visitors": 21,
+      "served": 1,
+      "x": 11,
+      "y": 5,
+      "id": "r0071"
+    },
+    {
+      "cell": "c72",
+      "district": "d3",
+      "visitors": 22,
+      "served": 2,
+      "x": 0,
+      "y": 6,
+      "id": "r0072"
+    },
+    {
+      "cell": "c73",
+      "district": "d3",
+      "visitors": 23,
+      "served": 3,
+      "x": 1,
+      "y": 6,
+      "id": "r0073"
+    },
+    {
+      "cell": "c74",
+      "district": "d3",
+      "visitors": 24,
+      "served": 4,
+      "x": 2,
+      "y": 6,
+      "id": "r0074"
+    },
+    {
+      "cell": "c75",
+      "district": "d3",
+      "visitors": 25,
+      "served": 5,
+      "x": 3,
+      "y": 6,
+      "id": "r0075"
+    },
+    {
+      "cell": "c76",
+      "district": "d3",
+      "visitors": 26,
+      "served": 6,
+      "x": 4,
+      "y": 6,
+      "id": "r0076"
+    },
+    {
+      "cell": "c77",
+      "district": "d3",
+      "visitors": 27,
+      "served": 7,
+      "x": 5,
+      "y": 6,
+      "id": "r0077"
+    },
+    {
+      "cell": "c78",
+      "district": "d3",
+      "visitors": 28,
+      "served": 8,
+      "x": 6,
+      "y": 6,
+      "id": "r0078"
+    },
+    {
+      "cell": "c79",
+      "district": "d3",
+      "visitors": 29,
+      "served": 9,
+      "x": 7,
+      "y": 6,
+      "id": "r0079"
+    },
+    {
+      "cell": "c80",
+      "district": "d3",
+      "visitors": 10,
+      "served": 0,
+      "x": 8,
+      "y": 6,
+      "id": "r0080"
+    },
+    {
+      "cell": "c81",
+      "district": "d3",
+      "visitors": 11,
+      "served": 1,
+      "x": 9,
+      "y": 6,
+      "id": "r0081"
+    },
+    {
+      "cell": "c82",
+      "district": "d3",
+      "visitors": 12,
+      "served": 2,
+      "x": 10,
+      "y": 6,
+      "id": "r0082"
+    },
+    {
+      "cell": "c83",
+      "district": "d3",
+      "visitors": 13,
+      "served": 3,
+      "x": 11,
+      "y": 6,
+      "id": "r0083"
+    },
+    {
+      "cell": "c84",
+      "district": "d3",
+      "visitors": 14,
+      "served": 4,
+      "x": 0,
+      "y": 7,
+      "id": "r0084"
+    },
+    {
+      "cell": "c85",
+      "district": "d3",
+      "visitors": 15,
+      "served": 5,
+      "x": 1,
+      "y": 7,
+      "id": "r0085"
+    },
+    {
+      "cell": "c86",
+      "district": "d3",
+      "visitors": 16,
+      "served": 6,
+      "x": 2,
+      "y": 7,
+      "id": "r0086"
+    },
+    {
+      "cell": "c87",
+      "district": "d3",
+      "visitors": 17,
+      "served": 7,
+      "x": 3,
+      "y": 7,
+      "id": "r0087"
+    },
+    {
+      "cell": "c88",
+      "district": "d3",
+      "visitors": 18,
+      "served": 8,
+      "x": 4,
+      "y": 7,
+      "id": "r0088"
+    },
+    {
+      "cell": "c89",
+      "district": "d3",
+      "visitors": 19,
+      "served": 9,
+      "x": 5,
+      "y": 7,
+      "id": "r0089"
+    },
+    {
+      "cell": "c90",
+      "district": "d3",
+      "visitors": 20,
+      "served": 0,
+      "x": 6,
+      "y": 7,
+      "id": "r0090"
+    },
+    {
+      "cell": "c91",
+      "district": "d3",
+      "visitors": 21,
+      "served": 1,
+      "x": 7,
+      "y": 7,
+      "id": "r0091"
+    },
+    {
+      "cell": "c92",
+      "district": "d3",
+      "visitors": 22,
+      "served": 2,
+      "x": 8,
+      "y": 7,
+      "id": "r0092"
+    },
+    {
+      "cell": "c93",
+      "district": "d3",
+      "visitors": 23,
+      "served": 3,
+      "x": 9,
+      "y": 7,
+      "id": "r0093"
+    },
+    {
+      "cell": "c94",
+      "district": "d3",
+      "visitors": 24,
+      "served": 4,
+      "x": 10,
+      "y": 7,
+      "id": "r0094"
+    },
+    {
+      "cell": "c95",
+      "district": "d3",
+      "visitors": 25,
+      "served": 5,
+      "x": 11,
+      "y": 7,
+      "id": "r0095"
+    }
+  ]
+}
