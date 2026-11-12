@@ -13,7 +13,7 @@ visitors/served 为人数，x/y 为本地演练坐标，不对应真实人员位
 npm ci --ignore-scripts --no-audit --no-fund --offline
 npm run build
 npm test
-npm start
+npm run summary
 node src/cli.js inspect --input data/records.json
 node src/cli.js summary --input data/records.json --out var/summary.json
 npm run demo
