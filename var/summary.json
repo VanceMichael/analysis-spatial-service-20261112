@@ -1,0 +1,32 @@
+{
+  "count": 96,
+  "groupBy": "district",
+  "groups": [
+    {
+      "count": 24,
+      "key": "d0",
+      "rate": 0.22018348623853212,
+      "sum": 96
+    },
+    {
+      "count": 24,
+      "key": "d1",
+      "rate": 0.24778761061946902,
+      "sum": 112
+    },
+    {
+      "count": 24,
+      "key": "d2",
+      "rate": 0.23076923076923078,
+      "sum": 108
+    },
+    {
+      "count": 24,
+      "key": "d3",
+      "rate": 0.21487603305785125,
+      "sum": 104
+    }
+  ],
+  "inputFingerprint": "8d23ea3d13e0080f96c12b0dffd62db01e1b9a19c50b1742b51c7b64bd78902c",
+  "valueField": "served"
+}

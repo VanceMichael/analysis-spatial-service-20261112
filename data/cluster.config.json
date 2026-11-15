@@ -1,0 +1,14 @@
+{
+  "weightsPath": "data/policy.json",
+  "metric": "rate",
+  "radii": [1, 2],
+  "scopes": ["city", "district"],
+  "standardization": "row",
+  "permutations": 999,
+  "seed": 71,
+  "alpha": 0.05,
+  "exact": false,
+  "minNeighbors": 2,
+  "minPermutationPool": 2,
+  "hotspotsPerType": 5
+}

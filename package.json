@@ -8,8 +8,9 @@
   },
   "scripts": {
     "test": "node --test",
-    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js",
+    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js && node --check src/weights.js && node --check src/indicators.js && node --check src/random.js && node --check src/moran.js && node --check src/spatial.js && node --check src/report.js && node --check src/clusterConfig.js",
     "summary": "node src/cli.js summary",
+    "cluster": "node src/cli.js cluster --config data/cluster.config.json",
     "demo": "node scripts/demo.js"
   }
 }
